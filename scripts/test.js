@@ -1,5 +1,0 @@
-// toast(getPackageName("手机淘宝"))
-toast(currentPackage())
-toast(currentActivity())
-runtime.requestPermissions(["access_fine_location","record_audio"])
-// launch(getPackageName("手机淘宝"))
